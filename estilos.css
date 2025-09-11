@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: #e8e8e8 url(fondo_zapatilla.jpg) center center no-repeat fixed;
     background-size: cover;
-    margin: 0; /* quita espacio blanco alrededor */
+    margin: 0; 
 }
 
 body {
@@ -112,4 +112,5 @@ footer a {
   margin: 0 10px;
   text-decoration: none;
 }
+
 
